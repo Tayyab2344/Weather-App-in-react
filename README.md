@@ -89,6 +89,3 @@ If you'd like to contribute to this project, please fork the repository and subm
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-If you have any questions or suggestions, please feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
