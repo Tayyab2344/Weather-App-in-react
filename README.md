@@ -5,7 +5,7 @@
 A weather application that displays the current weather based on the user's location. The app features a clean design with a transparent background and uses the OpenWeatherMap API to fetch weather data. It includes features such as temperature, sunrise and sunset times, and weather description.
 
 ## Live Link <br>
-
+https://weathertayyab.netlify.app/
 
 ## Features
 
